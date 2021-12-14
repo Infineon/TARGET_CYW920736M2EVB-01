@@ -41,7 +41,6 @@
 */
 
 #define BLE_P2
-#define BLEAPP
 
 /*
  * GPIO settings
